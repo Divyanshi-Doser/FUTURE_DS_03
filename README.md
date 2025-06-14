@@ -1,7 +1,6 @@
-# FUTURE_DS_03
-# 🚦 Road Accident Data Analysis | Internship Task 3
+# 🚦 Road Accident Data Analysis | Power BI
 
-This is the 3rd task of my internship where I worked on a road accident dataset using Power BI. The aim was to analyze accident patterns and identify high-risk areas, times, and causes.
+In this project  I worked on a road accident dataset using Power BI. The aim was to analyze accident patterns and identify high-risk areas, times, and causes.
 
 ## 🔍 About the Project
 
